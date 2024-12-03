@@ -19,10 +19,11 @@
 ![image](https://github.com/user-attachments/assets/4abd8e9b-68c8-4108-a274-9f0441480966)
 - Press commit changes and add a fitting commit message.
 ![image](https://github.com/user-attachments/assets/fd9cf4cc-daf2-454a-8c0e-5c689405e3f5)
-- Press propose changes
+- After pressing propose changes, review the changes you made and press "Create pull request"
 ![image](https://github.com/user-attachments/assets/0a650dca-7011-4db6-aa06-ca86ad649f11)
-- ![image](https://github.com/user-attachments/assets/694a9818-6483-424d-b807-b323a65e887a)
-
+- Optionally add more details on your changes and press "Create pull request"
+![image](https://github.com/user-attachments/assets/694a9818-6483-424d-b807-b323a65e887a)
+You are done! After this someone will review your changes and accept or deny your pull request.
 
 
 
