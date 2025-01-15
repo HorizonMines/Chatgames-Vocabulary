@@ -1,3 +1,3 @@
 on load:
-	set {_words} to ""
+	set {_words} to "cobblestone, iron, gold, coal, diamond, emerald, ruby, sapphire, netherite, obsidian, nightstone, elytra, void, island, mining, pickaxe, knockback, parkour, player, lootbox, pharaoh, sandstone, magma, fishing, ice, glacier, mummy, miner, deepdark, drill,  sword, upgrade, grind, trading, enchanting, auction, reward, gambling, shop, zombie, beacon, crate, compressed, reset, victorian, steampunk, end, light, void, helmet, chestplate, pants, boots, bow, spoon, jukebox, head, apple, arrow, chicken, beef, jump, pro, minecraft, block, item, season, restart, crash, minehut, token, vault, enderchest, mine, hidden, legendary, map, progression, ultra, molten, lake, rarity, fight, fishing, spam, community, snow, skulk, deepslate, health, protection, fortunte, bow, bait, keyall, warp, fish, HeadHunt, rekt, rank, bird, treasure, testing, fishing, PVP, PVE, Reconnecting"
 	set {words::*} to split {_words} at ", "
